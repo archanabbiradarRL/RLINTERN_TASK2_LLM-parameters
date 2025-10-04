@@ -164,6 +164,5 @@ python generate.py --prompt "Random story" --seed 42
 All experiment results are saved in the `outputs/` directory:
 - Each experiment generates markdown files with example outputs
 - Results show clear parameter effects on model behavior
-- Includes both successful generations and failure cases
 
 
